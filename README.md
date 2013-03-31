@@ -9,3 +9,5 @@ YWeather weather = new YWeather();
 WeatherInfo info = weather.getWeatherForPlace("Algiers", Units.TEMP_C);
 System.out.println(info.getItem().getForecastOne().toString());
 
+(c) 2012 Guendouz Mohamed 
+
