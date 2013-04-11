@@ -1,7 +1,7 @@
 YWeather4j
 ==========
 
-YWeather4j is a Yahoo Weather API for Java.
+YWeather4j is a Yahoo Weather API Wrapper for Java.
 
 Code Example to get Weather Information
 
