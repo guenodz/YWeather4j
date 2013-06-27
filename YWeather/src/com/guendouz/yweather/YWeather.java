@@ -1,6 +1,7 @@
 package com.guendouz.yweather;
 
 import java.io.IOException;
+
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.net.URLConnection;
@@ -26,6 +27,10 @@ import com.guendouz.yweather.model.WeatherInfo;
 import com.guendouz.yweather.model.Wind;
 import com.guendouz.yweather.util.WOEIDUtils;
 
+
+/*
+ * @author Guendouz Mohamed
+ */
 public class YWeather {
 
 	/*
